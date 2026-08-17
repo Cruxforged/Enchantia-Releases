@@ -1,0 +1,30 @@
+Enchantia License
+
+Copyright (c) 2026 Cruxforged. All rights reserved.
+
+This software ("Enchantia"), in compiled form, is provided free of charge for
+use on any Minecraft server, personal or commercial.
+
+You MAY:
+  - Download and run this plugin, in compiled (.jar) form, on any server you
+    operate, free of charge.
+  - Configure and customize its behavior through its YAML configuration files
+    (config.yml, enchantments.yml) as documented.
+
+You MAY NOT, without prior written permission from the author:
+  - Redistribute, rehost, sell, or sublicense this software or any modified
+    version of it.
+  - Decompile, reverse-engineer, or otherwise attempt to extract, derive, or
+    modify its source code.
+  - Remove or alter this notice, or represent this software as your own work.
+
+The source code of this software is not published and remains the exclusive
+property of the author. Distribution of the compiled plugin (e.g. via
+Hangar, Modrinth, or SpigotMC) does not transfer any of the rights withheld
+above.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE
+USE OF THIS SOFTWARE.

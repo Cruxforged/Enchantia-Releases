@@ -1,6 +1,6 @@
 # Enchantia
 
-A free-to-use, fully config-driven custom enchantments plugin for [Paper](https://papermc.io/) 1.21.11.
+A free-to-use, fully config-driven custom enchantments plugin for [Paper](https://papermc.io/) 1.21.x.
 
 Every enchantment is a real entry in Minecraft's own enchantment registry — not an NBT hack —
 so it behaves like Sharpness or Protection everywhere that matters: the enchanting table, anvil
@@ -14,13 +14,12 @@ tour of the 17 example enchants that ship out of the box.
 
 ## Download
 
-Grab the latest `Enchantia-<version>-all.jar` from **[Releases](../../releases/latest)** and
-drop it into your server's `plugins/` folder. See the
-**[Installation guide](../../wiki/Installation)** for the full setup.
+Grab the latest jar from **[Releases](../../releases/latest)** and drop it into your server's
+`plugins/` folder. See the **[Installation guide](../../wiki/Installation)** for the full setup.
 
 ## Requirements
 
-- Paper (or a Paper fork) **1.21.11**
+- Paper (or a Paper fork) **1.21.x**
 - Java 21
 - [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/) — optional, auto-detected
 

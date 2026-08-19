@@ -10,7 +10,7 @@ YAML files, no server-side coding required.
 
 **📖 [Read the full guide on the Wiki](../../wiki)** — installation, the complete
 `enchantments.yml`/`acquisition.yml` reference, every trigger and action, math formulas, and a
-tour of the 19 example enchants that ship out of the box.
+tour of the 21 example enchants that ship out of the box.
 
 ## Download
 
